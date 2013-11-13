@@ -7,3 +7,4 @@ It's a very simple logic/thinking game:
 - You can only turn a certain number at a time
 At the moment it's not translated to english.
 LICENSE: http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+Emoticons by: https://www.iconfinder.com/phdieuli
